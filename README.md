@@ -30,3 +30,8 @@ Author: Steawin Fernando
 - Python; data visualization; data loading/analysis
 
 If you'd like, tell me any proposed changes or ideas you want me to add to the program, and I'll get back to you asap! :)
+
+Resources used
+- JupyterLab
+- Python
+- OpenAI
