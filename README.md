@@ -1,4 +1,4 @@
-🚀 **# ISRO Launch Analysis: Data Visualization/Exploration**
+🚀 # ISRO Launch Analysis: Data Visualization/Exploration
 📊 Data analysis and visualization of ISRO (Indian Space Research Organization) launch data, exploring annual launch frequency, vehicle classification, mission applications, and launch orbital types from 1979-2023.
 🧠 This project includes a Jupyter Notebook, CSV Dataset, and Python menu interface that allows users to generate visual insights using ISRO's launch data in a highly interactive fashion.
 
