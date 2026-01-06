@@ -17,7 +17,7 @@ ISRO Launch Analysis uses a Python script to analyze public mission data from IS
 * Identify most commonly chosen launch vehicles
 * Provide an interactive Python interface for user-driven exploration with visualizations based on 4 categories
   
-# Visualizationc included:
+# Visualizations included:
 1. Launches per year
 2. Missions by application (Observation, communication, experimental, etc)
 3. Launches by vehicle used
