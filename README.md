@@ -1,6 +1,8 @@
-# 🚀  ISRO Launch Analysis: Data Visualization/Exploration
-📊 Data analysis and visualization of ISRO (Indian Space Research Organization) launch data, exploring annual launch frequency, vehicle classification, mission applications, and launch orbital types from 1979-2023.
-🧠 This project includes a Python menu interface, Jupyter Notebook, CSV Dataset, that allows users to generate visual insights using ISRO's launch data in a highly interactive fashion.
+# ISRO Launch Analysis: Data Visualization/Exploration
+> Data analysis and visualization of ISRO (Indian Space Research Organization) launch data, exploring annual launch frequency, vehicle classification, mission applications, and launch orbital types from 1979-2023.
+
+# How it works
+ISRO Launch Analysis uses a Python script to analyze public mission data from ISRO. Access dataset [here](https://www.kaggle.com/datasets/nihilisticneuralnet/every-isro-space-missions) This project includes a Python menu interface, Jupyter Notebook, CSV Dataset, that allows users to generate visual insights using ISRO's launch data in a highly interactive fashion.
 
 📁 **CONTENTS**
 | 📓 'ISRO-Launch-Analysis.ipynb' | Main notebook contianing EDA + visualizations |
