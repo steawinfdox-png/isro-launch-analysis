@@ -4,7 +4,7 @@
 > **Author: Steawin Fernando**
 
 # How it works
-ISRO Launch Analysis uses a Python script to analyze public mission data from ISRO. Access dataset [here](https://www.kaggle.com/datasets/nihilisticneuralnet/every-isro-space-missions). This project includes a Python menu interface, Jupyter Notebook, CSV Dataset, that allows users to generate visual insights using ISRO's launch data in a highly interactive fashion.
+ISRO Launch Analysis uses a Python script to analyze public mission data from ISRO. Access dataset [here](https://www.kaggle.com/datasets/nihilisticneuralnet/every-isro-space-missions). This project includes a Python menu interface, Jupyter Notebook, CSV Dataset, that allows users to generate visual insights using ISRO's launch data in a highly interactive fashion. Just click from the dropdown and you'll get the desired data in an easy-to-read fashion that will help everyday people actually understand what ISRO has been doing for the past half century.
 
 # CONTENTS
 - [ISRO-Launch-Analysis.ipynb](https://github.com/steawinfdox-png/isro-launch-analysis/blob/main/ISRO-Launch-Analysis.ipynb) (Main notebook contianing EDA + visualizations)
