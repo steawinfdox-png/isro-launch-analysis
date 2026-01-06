@@ -5,9 +5,9 @@
 ISRO Launch Analysis uses a Python script to analyze public mission data from ISRO. Access dataset [here](https://www.kaggle.com/datasets/nihilisticneuralnet/every-isro-space-missions). This project includes a Python menu interface, Jupyter Notebook, CSV Dataset, that allows users to generate visual insights using ISRO's launch data in a highly interactive fashion.
 
 # CONTENTS
-| ISRO-Launch-Analysis.ipynb (Main notebook contianing EDA + visualizations)
-| isro_missions(in).csv | (Cleaned dataset used for analysis)
-| isro_analyzer.py | (Script version with menu-driven activate() function for CLI execution)
+ISRO-Launch-Analysis.ipynb (Main notebook contianing EDA + visualizations)
+isro_missions(in).csv | (Cleaned dataset used for analysis)
+isro_analyzer.py (Partial cript with menu-driven activate() function for CLI execution)
 
 # PROJECT GOALS:
 * Compare ISRO missions by mission purpose
