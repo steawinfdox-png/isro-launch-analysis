@@ -1,5 +1,5 @@
-# ISRO Launch Analysis: Data Visualization/Exploration
-> Data analysis and visualization of ISRO (Indian Space Research Organization) launch data, exploring annual launch frequency, vehicle classification, mission applications, and launch orbital types from 1979-2023.
+# Overview
+> Easy-to-navigate interface, analyzing and visualizing ISRO (Indian Space Research Organization) launch data, exploring annual launch frequency, vehicle classification, mission applications, and launch orbital types from 1979-2023.
 >
 > **Author: Steawin Fernando**
 
